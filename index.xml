@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Plezierig Lezen</title>
+    <link>https://example.com/</link>
+    <description>Recent content on Plezierig Lezen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>nl</language>
+    <lastBuildDate>Sun, 12 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact</title>
+      <link>https://example.com/contact/</link>
+      <pubDate>Sun, 12 Oct 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/contact/</guid>
+      
+        <description>Contactgegevens en bereikbaarheid</description>
+      
+    </item>
+    
+    <item>
+      <title>Het nut van lezen</title>
+      <link>https://example.com/het-nut-van-lezen/</link>
+      <pubDate>Sun, 12 Oct 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/het-nut-van-lezen/</guid>
+      
+        <description>Waarom lezen belangrijk is voor woordenschat, begrip en schoolprestaties</description>
+      
+    </item>
+    
+    <item>
+      <title>Over mij</title>
+      <link>https://example.com/over-mij/</link>
+      <pubDate>Sun, 12 Oct 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/over-mij/</guid>
+      
+        <description>Over Marlous Hagen — leesbegeleiding en achtergrond</description>
+      
+    </item>
+    
+    <item>
+      <title>Tarieven</title>
+      <link>https://example.com/tarieven/</link>
+      <pubDate>Sun, 12 Oct 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tarieven/</guid>
+      
+        <description>Overzicht van tarieven voor leesbegeleiding, advies en gepersonaliseerde boekenlijsten</description>
+      
+    </item>
+    
+    <item>
+      <title>Wat biedt Plezierig Lezen?</title>
+      <link>https://example.com/onze-diensten/</link>
+      <pubDate>Sun, 12 Oct 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/onze-diensten/</guid>
+      
+        <description>Diensten: advies, persoonlijke boekenlijsten en begeleiding om leesplezier te vergroten</description>
+      
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://example.com/contact-form/</link>
+      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/contact-form/</guid>
+      
+        <description>Contact Pagina</description>
+      
+    </item>
+    
+  </channel>
+</rss>
