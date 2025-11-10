@@ -8,18 +8,7 @@
     <language>nl</language>
     <lastBuildDate>Sun, 12 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Contact</title>
-      <link>https://example.com/contact/</link>
-      <pubDate>Sun, 12 Oct 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.com/contact/</guid>
-      
-        <description>Contactgegevens en bereikbaarheid</description>
-      
-    </item>
-    
-    <item>
-      <title>Het nut van lezen</title>
+      <title>🌱 Het nut van lezen</title>
       <link>https://example.com/het-nut-van-lezen/</link>
       <pubDate>Sun, 12 Oct 2025 00:00:00 +0000</pubDate>
       
@@ -30,18 +19,18 @@
     </item>
     
     <item>
-      <title>Over mij</title>
-      <link>https://example.com/over-mij/</link>
+      <title>💬 Contact</title>
+      <link>https://example.com/contact/</link>
       <pubDate>Sun, 12 Oct 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/over-mij/</guid>
+      <guid>https://example.com/contact/</guid>
       
-        <description>Over Marlous Hagen — leesbegeleiding en achtergrond</description>
+        <description>Contactgegevens en bereikbaarheid</description>
       
     </item>
     
     <item>
-      <title>Tarieven</title>
+      <title>💶 Tarieven</title>
       <link>https://example.com/tarieven/</link>
       <pubDate>Sun, 12 Oct 2025 00:00:00 +0000</pubDate>
       
@@ -52,13 +41,24 @@
     </item>
     
     <item>
-      <title>Wat biedt Plezierig Lezen?</title>
+      <title>📖 Wat biedt Plezierig Lezen?</title>
       <link>https://example.com/onze-diensten/</link>
       <pubDate>Sun, 12 Oct 2025 00:00:00 +0000</pubDate>
       
       <guid>https://example.com/onze-diensten/</guid>
       
         <description>Diensten: advies, persoonlijke boekenlijsten en begeleiding om leesplezier te vergroten</description>
+      
+    </item>
+    
+    <item>
+      <title>😊 Over mij</title>
+      <link>https://example.com/over-mij/</link>
+      <pubDate>Sun, 12 Oct 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/over-mij/</guid>
+      
+        <description>Over Marlous Hagen — leesbegeleiding en achtergrond</description>
       
     </item>
     

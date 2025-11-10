@@ -5,19 +5,19 @@
     <loc>https://example.com/</loc>
     <lastmod>2025-10-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/contact/</loc>
-    <lastmod>2025-10-12T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://example.com/het-nut-van-lezen/</loc>
     <lastmod>2025-10-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/over-mij/</loc>
+    <loc>https://example.com/contact/</loc>
     <lastmod>2025-10-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.com/tarieven/</loc>
     <lastmod>2025-10-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.com/onze-diensten/</loc>
+    <lastmod>2025-10-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/over-mij/</loc>
     <lastmod>2025-10-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.com/contact-form/</loc>
